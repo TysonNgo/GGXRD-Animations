@@ -176,6 +176,7 @@ static/Chipp/overdrives/632146H.gif
 static/Chipp/overdrives/j.214214K.gif
 static/Chipp/specials/214K.gif
 static/Chipp/specials/236P.gif
+static/Chipp/specials/236P~H.gif
 static/Chipp/specials/236S.gif
 static/Chipp/specials/236S~236K.gif
 static/Chipp/specials/236S~236S.gif
@@ -216,6 +217,7 @@ static/Dizzy/normals/f.S.gif
 static/Dizzy/normals/j.D.gif
 static/Dizzy/normals/j.H.gif
 static/Dizzy/normals/j.K.gif
+static/Chipp/normals/j.2K.gif
 static/Dizzy/normals/j.P.gif
 static/Dizzy/normals/j.S.gif
 static/Dizzy/overdrives/632146P.gif

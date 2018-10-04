@@ -328,6 +328,7 @@ static/Ino/specials/214H.gif
 static/Ino/specials/214K.gif
 static/Ino/specials/214K~214S.gif
 static/Ino/specials/214P.gif
+static/Ino/specials/214P~2or8.gif
 static/Ino/specials/214S.gif
 static/Ino/specials/41236H.gif
 static/Ino/specials/41236S.gif

@@ -582,6 +582,8 @@ static/May/normals/j.P.gif
 static/May/normals/j.S.gif
 static/May/overdrives/236236S.gif
 static/May/overdrives/63214H.gif
+static/May/overdrives/63214S.gif
+static/May/overdrives/63214S~P.gif
 static/May/specials/214K.gif
 static/May/specials/214P.gif
 static/May/specials/41236H.gif

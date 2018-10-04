@@ -661,6 +661,7 @@ static/Potemkin/specials/214P.gif
 static/Potemkin/specials/236P.gif
 static/Potemkin/specials/236S.gif
 static/Potemkin/specials/623H.gif
+static/Potemkin/specials/623H~63214H.gif
 static/Potemkin/specials/632146P.gif
 static/Potemkin/specials/63214S.gif
 static/Potemkin/specials/[4]6H.gif

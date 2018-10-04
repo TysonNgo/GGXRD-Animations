@@ -619,6 +619,7 @@ static/Millia/overdrives/2141236H.gif
 static/Millia/overdrives/214214S.gif
 static/Millia/overdrives/236236S.gif
 static/Millia/specials/214H.gif
+static/Millia/specials/214H~H.gif
 static/Millia/specials/214K.gif
 static/Millia/specials/214K~K.gif
 static/Millia/specials/214K~S.gif

@@ -302,6 +302,7 @@ static/Faust/specials/236S~K.gif
 static/Faust/specials/236S~P.gif
 static/Faust/specials/236S~S.gif
 static/Faust/specials/41236K.gif
+static/Faust/specials/41236K~4.gif
 static/Faust/specials/41236K~4~236P~236P~236P.gif
 static/Faust/specials/j.236H.gif
 static/Faust/specials/j.236P.gif

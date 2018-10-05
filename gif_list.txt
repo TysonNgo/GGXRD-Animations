@@ -267,6 +267,8 @@ static/Elphelt/specials/236P.gif
 static/Elphelt/specials/236P~2P.gif
 static/Elphelt/specials/236P~4P.gif
 static/Elphelt/specials/236S.gif
+static/Elphelt/specials/236S~46S.gif
+static/Elphelt/specials/236S~D.gif
 static/Elphelt/specials/j.214K.gif
 static/Faust/normals/2D.gif
 static/Faust/normals/2H.gif
